@@ -1,3 +1,3 @@
 # vanta
 
-my current build. work in progress.
+a discord bot. work in progress.
