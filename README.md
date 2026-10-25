@@ -1,4 +1,6 @@
-<h1><img src="icon.svg" width="44" align="middle" alt="Vanta logo"> Vanta</h1>
+<img src="icon.svg" width="72" alt="Vanta logo">
+
+# Vanta
 
 ![last commit](https://img.shields.io/github/last-commit/dav256/vanta?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/dav256/vanta?style=for-the-badge&logo=github) ![status](https://img.shields.io/badge/status-superseded-lightgrey?style=for-the-badge)
 
