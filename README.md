@@ -1,5 +1,7 @@
 # vanta
 
-a discord bot. work in progress.
+![last commit](https://img.shields.io/github/last-commit/dav256/vanta?style=for-the-badge)
 
-> this is v1 — the current version is [vanta-2.0](https://github.com/dav256/vanta-2.0).
+> ### Superseded — the current version is [vanta-2.0](https://github.com/dav256/vanta-2.0)
+
+vanta is a Discord bot. this repo holds the first version, kept for history — work in progress moved to vanta-2.0.
